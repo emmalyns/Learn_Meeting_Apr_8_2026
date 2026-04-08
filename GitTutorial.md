@@ -38,3 +38,10 @@ it looks like 3-4 circles with lines.
 
 then near the bottom you should see the different commits. 
 you can click on one and it will show the changes. 
+
+## Pull and push
+To pull means to pull a file down from the cloud and onto the local computer. 
+
+To push is to push a file from a local computer to the cloud. 
+
+git push origin main
