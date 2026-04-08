@@ -32,4 +32,9 @@ git rm GitTutorial.md
 
 git restore GitTutorial.md
 
-## Classical  Mechanics 
+## How to see differences over time
+click on the third icon on the left in vscode. 
+it looks like 3-4 circles with lines. 
+
+then near the bottom you should see the different commits. 
+you can click on one and it will show the changes. 
