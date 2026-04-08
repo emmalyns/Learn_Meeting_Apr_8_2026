@@ -45,3 +45,10 @@ To pull means to pull a file down from the cloud and onto the local computer.
 To push is to push a file from a local computer to the cloud. 
 
 git push origin main
+
+## git branches 
+to make a branch: git branch Name
+
+to see branches: git branch
+
+to change to a new branch: git checkout Name
